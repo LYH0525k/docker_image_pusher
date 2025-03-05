@@ -5,7 +5,7 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ubuntu:bionic
-mysql:5.7
+mysql:8.0
 oaisoftwarealliance/oai-amf:v1.4.0
 oaisoftwarealliance/oai-nrf:v1.4.0
 oaisoftwarealliance/oai-spgwu-tiny:v1.4.0
@@ -16,4 +16,3 @@ oaisoftwarealliance/oai-ausf:v1.4.0
 oaisoftwarealliance/oai-upf-vpp:v1.4.0
 oaisoftwarealliance/oai-nssf:v1.4.0
 oaisoftwarealliance/trf-gen-cn5g:latest
-mysql:8.0
