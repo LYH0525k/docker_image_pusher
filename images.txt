@@ -16,3 +16,4 @@ oaisoftwarealliance/oai-ausf:v1.4.0
 oaisoftwarealliance/oai-upf-vpp:v1.4.0
 oaisoftwarealliance/oai-nssf:v1.4.0
 oaisoftwarealliance/trf-gen-cn5g:latest
+mysql:8.0
