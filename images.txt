@@ -6,13 +6,13 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 ubuntu:bionic
 mysql:8.0
-oaisoftwarealliance/oai-amf:v1.4.0
-oaisoftwarealliance/oai-nrf:v1.4.0
-oaisoftwarealliance/oai-spgwu-tiny:v1.4.0
-oaisoftwarealliance/oai-smf:v1.4.0
-oaisoftwarealliance/oai-udr:v1.4.0
-oaisoftwarealliance/oai-udm:v1.4.0
-oaisoftwarealliance/oai-ausf:v1.4.0
-oaisoftwarealliance/oai-upf-vpp:v1.4.0
-oaisoftwarealliance/oai-nssf:v1.4.0
+oaisoftwarealliance/oai-amf:v2.1.0
+oaisoftwarealliance/oai-nrf:v2.1.0
+oaisoftwarealliance/oai-spgwu-tiny:v2.1.0
+oaisoftwarealliance/oai-smf:v2.1.0
+oaisoftwarealliance/oai-udr:v2.1.0
+oaisoftwarealliance/oai-udm:v2.1.0
+oaisoftwarealliance/oai-ausf:v2.1.0
+oaisoftwarealliance/oai-upf-vpp:v2.1.0
+oaisoftwarealliance/oai-nssf:v2.1.0
 oaisoftwarealliance/trf-gen-cn5g:latest
