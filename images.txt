@@ -7,3 +7,5 @@ oaisoftwarealliance/oai-udr:v2.1.0
 oaisoftwarealliance/oai-amf:v2.1.0
 oaisoftwarealliance/oai-smf:v2.1.0
 oaisoftwarealliance/oai-upf-vpp:v2.1.0
+oaisoftwarealliance/oai-spgwu-tiny:v2.1.0
+oaisoftwarealliance/trf-gen-cn5g:latest
