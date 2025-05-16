@@ -1,1 +1,2 @@
-rohankharade/gnbsim:latest
+oaisoftwarealliance/oai-gnb:develop
+oaisoftwarealliance/oai-nr-ue:develop
