@@ -1,1 +1,1 @@
-oaisoftwarealliance/oai-nssf:v2.1.0
+oaisoftwarealliance/oai-nssf:latest
