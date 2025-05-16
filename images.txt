@@ -1,1 +1,1 @@
-oaisoftwarealliance/oai-nssf:latest
+rohankharade/gnbsim:latest
